@@ -1,0 +1,8 @@
+C:\Users\Eugene\source\repos\Model3\Model3\bin\Debug\Model3.exe.config
+C:\Users\Eugene\source\repos\Model3\Model3\bin\Debug\Model3.exe
+C:\Users\Eugene\source\repos\Model3\Model3\bin\Debug\Model3.pdb
+C:\Users\Eugene\source\repos\Model3\Model3\obj\Debug\Model3.csprojAssemblyReference.cache
+C:\Users\Eugene\source\repos\Model3\Model3\obj\Debug\Model3.Properties.Resources.resources
+C:\Users\Eugene\source\repos\Model3\Model3\obj\Debug\Model3.csproj.GenerateResource.cache
+C:\Users\Eugene\source\repos\Model3\Model3\obj\Debug\Model3.exe
+C:\Users\Eugene\source\repos\Model3\Model3\obj\Debug\Model3.pdb
